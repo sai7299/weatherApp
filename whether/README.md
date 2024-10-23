@@ -1,5 +1,10 @@
 This app will show you the weather data for the cities hyd,bengaluru,delhi etc.,
+### folders to be clone
 
+the backend folder consists of backend code
+and the weather folder consists of frontend code
+
+clone these 2 folders to run the project
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

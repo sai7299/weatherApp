@@ -1,0 +1,14 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.card{
+    margin :0px;
+    width:150px;
+    height:270px;
+    border: 1px solid black;
+    text-align: center;
+}
